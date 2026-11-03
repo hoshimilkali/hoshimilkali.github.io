@@ -1,4 +1,2 @@
-# hoshimilkali.github.io
-- A
-- B
-  
+# 電子工作
+- https://hoshimilkali.github.io/  
