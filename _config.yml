@@ -1,0 +1,10 @@
+title: サイト名
+description: オリジナル電子工作キットの紹介
+lang: ja
+collections:
+  works:
+    output: true                  # 作品ごとにページを生成
+    permalink: /works/:name/      # fo-01.md → /works/fo-01/
+defaults:
+  - scope: { type: works }
+    values: { layout: work }      # 作品ページは work.html を使う
