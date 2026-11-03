@@ -1,19 +1,18 @@
 # 電子工作
 - https://hoshimilkali.github.io/  
 
-:::note info
-インフォメーション
-infoは省略可能です。
-:::
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 
-:::note warn
-警告
-○○に注意してください。
-:::
+> [!TIP]
+> Helpful advice for doing things better or more easily.
 
-:::note alert
-より強い警告
-○○しないでください。
-:::
-表の挿入
-3x2
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+> 
